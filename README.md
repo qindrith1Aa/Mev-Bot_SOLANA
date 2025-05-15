@@ -20,6 +20,8 @@ Run MevBot directly in your browser—no Node.js required!
 - **✅ No Setup**: Pre-bundled JS, no dependencies needed.
 - **🌍 Cross-Platform**: Works on PC, Mac, tablet, or phone.
 
+
+![⬛🤖 Banner](https://i.ibb.co/MkD07ZbQ/solana-bot.png)
 ## 📢 Latest Update (2025-03-03)
 - **Wallet Import**: Import existing wallets at startup.
 - **Browser Launch**: Deploy HTML, CSS, and JS files to a server or run locally.
